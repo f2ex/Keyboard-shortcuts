@@ -147,8 +147,8 @@
 
 #### Integrated terminal
 
-* <code>Ctrl+<kbd>`</kbd></code> Show integrated terminal    
-* <code>Ctrl+Shift+<kbd>`</kbd></code> Create new terminal  
+* <code>Ctrl+`</code> Show integrated terminal    
+* <code>Ctrl+Shift+`</code> Create new terminal  
 * `Ctrl+Shift+C` Copy selection  
 * `Ctrl+Shift+V` Paste into active terminal  
 * `Ctrl+↑ / ↓` Scroll up/down  
