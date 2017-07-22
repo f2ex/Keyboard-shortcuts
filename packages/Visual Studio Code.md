@@ -1,13 +1,13 @@
 ## Visual Studio Code
 
-#### General 常规
+#### General 
 
 * `Ctrl+Shift+P` F1 Show Command Palette     
 * `Ctrl+P` Quick Open   
 * `Ctrl+Shift+N` New window/instance    
 * `Ctrl+Shift+W` Close window/instance  
 
-#### Basic editing 基本编辑  
+#### Basic editing   
 
 * `Ctrl+X` Cut line (empty selection)    
 * `Ctrl+C` Copy line (empty selection)  
