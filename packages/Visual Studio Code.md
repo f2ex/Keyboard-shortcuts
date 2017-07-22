@@ -147,16 +147,13 @@
 
 #### Integrated terminal
 
-* __Ctrl+\`__ Show integrated terminal    
-* __Ctrl+Shift+\`__ Create new terminal  
+* <code>Ctrl+<kbd>`</kbd></code> Show integrated terminal    
+* <code>Ctrl+Shift+<kbd>`</kbd></code> Create new terminal  
 * `Ctrl+Shift+C` Copy selection  
 * `Ctrl+Shift+V` Paste into active terminal  
 * `Ctrl+↑ / ↓` Scroll up/down  
 * `Shift+PgUp` / PgDown Scroll page up/down  
 * `Ctrl+Home` / End Scroll to top/bottom  
-
-
-
 
 
 
